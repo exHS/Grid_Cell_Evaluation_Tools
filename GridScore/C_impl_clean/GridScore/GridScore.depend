@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1433149627 source:/home/oesst/Dropbox/Studium/TUM/3. Semester/Programming/nstWork/C_impl_clean/GridScore/main.cpp
+	<stdio.h>
+	<iostream>
+	"src/Gridness.cpp"
+
+1433149620 /home/oesst/Dropbox/Studium/TUM/3. Semester/Programming/nstWork/C_impl_clean/GridScore/src/Gridness.cpp
+	<stdio.h>
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<valarray>
+
+1433149620 source:/home/oesst/Dropbox/Studium/TUM/3. Semester/Programming/nstWork/C_impl_clean/GridScore/src/Gridness.cpp
+	<stdio.h>
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<valarray>
+
